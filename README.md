@@ -24,7 +24,7 @@
 
    Meu nome é **Matheus Gomes**, Tenho 26 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
 
-## 💬 Sobre mim:
+### 💬 Sobre mim:
 
 :rocket:  &nbsp; Atualmente trabalho como **Freelancer**
 
@@ -45,9 +45,9 @@
 <img src="https://img.shields.io/badge/-MatheusGomes-%234267b2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/matheusgomesrdj/"/>
 </a>
  
-## :computer: Minha stack
+### :computer: Minha stack
 
-### Linguagens
+#### Linguagens
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -56,7 +56,7 @@
 - [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)
 - [SQL](https://pt.wikipedia.org/wiki/SQL)
 
-### Frameworks e Bibliotecas
+#### Frameworks e Bibliotecas
 
 <!-- - [Laravel]()
 - [NodeJS]()
@@ -64,28 +64,28 @@
 - [ReactNative]()-->
 - [JQuery](https://jquery.com/)
 
-### Ferramentas
+#### Ferramentas
 
 - [Sass](https://sass-lang.com/)
 - [Compass](http://compass-style.org/)
 - [Gulp](https://gulpjs.com/)
 
-### Banco de Dados
+#### Banco de Dados
 
 - [MySql](https://www.mysql.com/)
 
-### Outros
+#### Outras Habilidades
 
 - [UML](https://pt.wikipedia.org/wiki/UML)
 - [Design Responsivo](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
 - [API Rest](https://www.hostgator.com.br/blog/api-restful/)
 
-#### 💬 Idiomas
+### 💬 Idiomas
 
 - Inglês - Aprendendo.
 - Portugues - Nativo.
 
-#### ⚡ Hobbies
+### ⚡ Hobbies
 
 - :running: Corrida
 - :surfer: Surf e Standup Paddle
