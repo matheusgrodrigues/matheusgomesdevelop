@@ -1,14 +1,78 @@
-# Matheus G. Rodrigues
-
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Front-End Developer :computer:
 
- :rocket:  &nbsp; Atualmente trabalho como **Freelancer**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: HTML5, CSS3, Javascript, Typescript, Design Responsivo, Sass, Gulp, Php, SQL, UML
- <br/> :computer: &nbsp; Atualmente estudando React, ReactNative, NodeJs
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias voltadas para web e Esportes como corrida e Surf.
- <br/> :email: &nbsp; Entre em contato comigo: 
+<p align=center>
+
+<a href="https://www.linkedin.com/in/matheusgomes/">
+ <img src="https://avatars3.githubusercontent.com/u/12579898?s=460&u=40dc9348a9eeb34e3b9c1b945f22945b3c13d5b0&v=4" style="border-radius: 50%;" width="120" alt="Foto"/>
+ </a>
+ <br>
+ <sub><strong>Matheus G. Rodrigues :rocket:</strong></sub>
+ <br><br>
+<img src="https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgomes/"/>
+ 
+</p>
+   
+### 🤓 Quem sou eu? :tea:
+
+   Meu nome é **Matheus Gomes**, Tenho 26 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
+
+## 💬 Sobre mim:
+
+:rocket:  &nbsp; Atualmente trabalho como **Freelancer**
+
+:purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
+
+:blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+
+:computer: &nbsp; Atualmente estudando [React](https://pt-br.reactjs.org/), [ReactNative](https://reactnative.dev/), [NodeJs](https://nodejs.org/en/)
+
+:email: &nbsp; Entre em contato comigo: 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgomes/)](https://www.linkedin.com/in/matheusgomes/) 
+ 
+## :computer: Minha stack
+
+### Linguagens
+
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<!-- - [Typescript](https://www.typescriptlang.org/) -->
+- [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)
+- [SQL](https://pt.wikipedia.org/wiki/SQL)
+
+### Frameworks e Bibliotecas
+
+<!-- - [Laravel]()
+- [NodeJS]()
+- [ReactJS]()
+- [ReactNative]()-->
+- [JQuery](https://jquery.com/)
+
+### Ferramentas
+
+- [Sass](https://sass-lang.com/)
+- [Compass](http://compass-style.org/)
+- [Gulp](https://gulpjs.com/)
+
+### Banco de Dados
+
+- [MySql](https://www.mysql.com/)
+
+### Outros
+
+- [UML](https://pt.wikipedia.org/wiki/UML)
+- [Design Responsivo](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
+- [API Rest](https://www.hostgator.com.br/blog/api-restful/)
+
+#### 💬 Idiomas
+
+- Inglês - Aprendendo.
+- Portugues - Nativo.
+
+#### ⚡ Hobbies
+
+- :running: Corrida
+- :surfer: Surf e Standup Paddle
+- :swimmer: Natação
+- :muscle: Academia
+- 🎧 Ouvir Charlie Brown Jr e musica eletrônica
