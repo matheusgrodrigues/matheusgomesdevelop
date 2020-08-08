@@ -24,6 +24,7 @@
 
    Meu nome é **Matheus Gomes**, Tenho 26 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
 
+---
 ### 💬 Sobre mim:
 
 :rocket:  &nbsp; Atualmente trabalho como **Freelancer**
@@ -45,7 +46,8 @@
 <img src="https://img.shields.io/badge/-MatheusGomes-%234267b2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/matheusgomesrdj/"/>
 </a>
  
-### :computer: Minha stack
+---
+### :computer: Minhas Habilidades
 
 #### Linguagens
 
@@ -80,11 +82,13 @@
 - [Design Responsivo](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
 - [API Rest](https://www.hostgator.com.br/blog/api-restful/)
 
+---
 ### 💬 Idiomas
 
 - Inglês - Aprendendo.
 - Portugues - Nativo.
 
+---
 ### ⚡ Hobbies
 
 - :running: Corrida
