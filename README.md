@@ -71,6 +71,7 @@
 - [Sass](https://sass-lang.com/)
 - [Compass](http://compass-style.org/)
 - [Gulp](https://gulpjs.com/)
+- [Git](https://git-scm.com/)
 
 #### Banco de Dados
 
