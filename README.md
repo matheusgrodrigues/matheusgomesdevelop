@@ -54,9 +54,10 @@
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-<!-- - [Typescript](https://www.typescriptlang.org/) -->
 - [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)
 - [SQL](https://pt.wikipedia.org/wiki/SQL)
+
+<!-- - [Typescript](https://www.typescriptlang.org/) -->
 
   <!-- #### Frameworks e Bibliotecas -->
 
