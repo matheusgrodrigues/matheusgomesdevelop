@@ -33,7 +33,7 @@
 
 :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
 
-:computer: &nbsp; Atualmente estudando [JavaScript ES6](https://pt-br.reactjs.org/), [Php](https://reactnative.dev/)<!--, [NodeJs](https://nodejs.org/en/)-->
+:computer: &nbsp; Atualmente estudando [JavaScript ES6](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript), [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)<!--, [NodeJs](https://nodejs.org/en/)-->
 
 :email: &nbsp; Entre em contato comigo: 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
