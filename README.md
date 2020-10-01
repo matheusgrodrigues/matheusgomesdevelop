@@ -70,7 +70,7 @@
 #### Ferramentas
 
 - [Sass](https://sass-lang.com/)
-- [Compass](http://compass-style.org/)
+- [Webpack](https://webpack.js.org/)
 - [Gulp](https://gulpjs.com/)
 - [Git](https://git-scm.com/)
 
@@ -80,8 +80,7 @@
 
 #### Outras Habilidades
 
-- [UML](https://pt.wikipedia.org/wiki/UML)
-- [Design Responsivo](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
+- [Design Responsivo / Mobile First](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
 - [API Rest](https://www.hostgator.com.br/blog/api-restful/)
 
 ---
