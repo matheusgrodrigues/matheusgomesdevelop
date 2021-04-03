@@ -22,7 +22,7 @@
    
 ### 🤓 Quem sou eu? :tea:
 
-   Meu nome é **Matheus Gomes**, Tenho 26 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
+   Meu nome é **Matheus Gomes**, Tenho 27 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
 
 ---
 ### 💬 Sobre mim:
