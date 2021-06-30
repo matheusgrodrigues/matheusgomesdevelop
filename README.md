@@ -27,7 +27,7 @@
 ---
 ### 💬 Sobre mim:
 
-:rocket:  &nbsp; Atualmente trabalho como **Freelancer**
+:rocket:  &nbsp; Atualmente trabalho como **Desenvolvedor Frontend**
 
 :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
 
