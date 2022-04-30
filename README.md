@@ -1,28 +1,29 @@
 ## Olá pessoal 👋
 
-<p align=center>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
- <img src="https://avatars3.githubusercontent.com/u/12579898?s=460&u=40dc9348a9eeb34e3b9c1b945f22945b3c13d5b0&v=4" style="border-radius: 50%;" width="120" alt="Foto"/> 
- </a>     
+<img src="https://avatars3.githubusercontent.com/u/12579898?s=460&u=40dc9348a9eeb34e3b9c1b945f22945b3c13d5b0&v=4" style="border-radius: 50%;" width="120" alt="Foto" /> 
+ </a>  
+ 
  <br>
- <sub><strong>Matheus G. Rodrigues :rocket:</strong></sub>
- <br><br>
+ 
+ <sub>
+  <strong>Matheus G. Rodrigues :rocket:</strong>
+ </sub>
+ 
+ <br>
+ <br>
+ 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
 <img src="https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgomes/"/>
  </a>
- <a href="https://twitter.com/MatheusGomesWeb" target="_blank">
-<img alt="twitter Matheus Gomes" src="https://img.shields.io/badge/-@MatheusGomesWeb-%231ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MatheusGomesWeb"/>
- </a>
- <a href="https://www.facebook.com/matheusgomesrdj/" target="_blank">
-<img src="https://img.shields.io/badge/-MatheusGomes-%234267b2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/matheusgomesrdj/"/>
-</a>
 
-</p>
+</div>
    
 ### 🤓 Quem sou eu? :tea:
 
-   Meu nome é **Matheus Gomes**, Tenho 27 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
+Meu nome é **Matheus Gomes**, Tenho 28 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
 
 ---
 ### 💬 Sobre mim:
@@ -31,20 +32,10 @@
 
 :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
 
-:blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
-
-:computer: &nbsp; Atualmente estudando [JavaScript ES6](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript), [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)<!--, [NodeJs](https://nodejs.org/en/)-->
-
 :email: &nbsp; Entre em contato comigo: 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
 <img src="https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgomes/"/>
  </a>
- <a href="https://twitter.com/MatheusGomesWeb" target="_blank">
-<img alt="twitter Matheus Gomes" src="https://img.shields.io/badge/-@MatheusGomesWeb-%231ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MatheusGomesWeb"/>
- </a>
- <a href="https://www.facebook.com/matheusgomesrdj/" target="_blank">
-<img src="https://img.shields.io/badge/-MatheusGomes-%234267b2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/matheusgomesrdj/"/>
-</a>
  
 ---
 ### :computer: Minhas Habilidades
@@ -53,23 +44,18 @@
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Sass](https://sass-lang.com/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Php](https://www.php.net/manual/pt_BR/intro-whatis.php)
 - [SQL](https://pt.wikipedia.org/wiki/SQL)
-
-<!-- - [Typescript](https://www.typescriptlang.org/) -->
+- [Typescript](https://www.typescriptlang.org/)
 
   <!-- #### Frameworks e Bibliotecas -->
 
-<!-- - [Laravel]()
-- [NodeJS]()
 - [ReactJS]()
-- [ReactNative]()
-- [JQuery](https://jquery.com/)-->
+- [NextJS]()
 
 #### Ferramentas
 
-- [Sass](https://sass-lang.com/)
 - [Webpack](https://webpack.js.org/)
 - [Gulp](https://gulpjs.com/)
 - [Git](https://git-scm.com/)
