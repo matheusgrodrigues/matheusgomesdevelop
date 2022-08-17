@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
-<img src="https://avatars3.githubusercontent.com/u/12579898?s=460&u=40dc9348a9eeb34e3b9c1b945f22945b3c13d5b0&v=4" style="border-radius: 50%;" width="120" alt="Foto" /> 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGp3PcGBlnPaA/profile-displayphoto-shrink_200_200/0/1660692687410?e=1666224000&v=beta&t=JxT4y1Zy_oRISA6jhtqo2rT44kAhBTa3vNxKYCKsPjU" style="border-radius: 50%;" width="120" alt="Foto" /> 
  </a>  
  
  <br>
