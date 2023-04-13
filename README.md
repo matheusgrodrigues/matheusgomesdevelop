@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGp3PcGBlnPaA/profile-displayphoto-shrink_200_200/0/1660692687410?e=1666224000&v=beta&t=JxT4y1Zy_oRISA6jhtqo2rT44kAhBTa3vNxKYCKsPjU" style="border-radius: 50%;" width="120" alt="Foto" /> 
+<img src="https://media.licdn.com/dms/image/D4D03AQE8Y2CMrWP4Jw/profile-displayphoto-shrink_200_200/0/1677082829717?e=1686787200&v=beta&t=4RXmd6JO1V-OiZ93phKqGrXlOX_1-6UJaMIt5YzEGH8" style="border-radius: 50%;" width="120" alt="Foto" /> 
  </a>  
  
  <br>
@@ -23,7 +23,7 @@
    
 ### 🤓 Quem sou eu? :tea:
 
-Meu nome é **Matheus Gomes**, Tenho 28 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
+Meu nome é **Matheus Gomes**, Tenho 29 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
 
 ---
 ### 💬 Sobre mim:
