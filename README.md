@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
-<img src="https://media.licdn.com/dms/image/D4D03AQE8Y2CMrWP4Jw/profile-displayphoto-shrink_200_200/0/1677082829717?e=1686787200&v=beta&t=4RXmd6JO1V-OiZ93phKqGrXlOX_1-6UJaMIt5YzEGH8" style="border-radius: 50%;" width="120" alt="Foto" /> 
+<img src="https://avatars.githubusercontent.com/u/12579898?v=4" style="border-radius: 50%;" width="120" alt="Foto" /> 
  </a>  
  
  <br>
