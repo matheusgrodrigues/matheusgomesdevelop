@@ -9,10 +9,13 @@
  <br>
  
  <sub>
-  <strong>Matheus G. Rodrigues :rocket:</strong>
- </sub>
+  <strong>Matheus Gomes Rodrigues :rocket: </strong>  
+ </sub>  
  
  <br>
+   Desenvolvedor Front End
+<br>
+ 
  <br>
  
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
@@ -21,53 +24,56 @@
 
 </div>
    
-### 🤓 Quem sou eu? :tea:
+### 🤓 Sobre mim? :tea:
 
-Meu nome é **Matheus Gomes**, Tenho 29 anos e sou de Praia Grande, SP - Brasil, sou um :rocket: **Front-End Developer** :rocket: apaixonado por resolver problemas utilizando a programação.   
+Olá! Me chamo **Matheus G. Rodrigues**, tenho 29 anos e sou de Praia Grande - SP.
+
+Sou apaixonado por criar experiências interativas e envolventes na web. Possuo formação em :rocket:  &nbsp; **Análise e Desenvolvimento de Sistemas**, o que me proporciona uma base sólida em desenvolvimento de software e resolução de problemas.
+
+Trabalho como **Desenvolvedor Front End** e sou responsável por projetar e implementar interfaces web modernas e responsivas, utilizando as tecnologias mais recentes e ferramentas avançadas para proporcionar a melhor experiência possível aos usuários.
 
 ---
-### 💬 Sobre mim:
 
-:rocket:  &nbsp; Atualmente trabalho como **Desenvolvedor Frontend**
+<div align="center">
 
-:purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
-
-:email: &nbsp; Entre em contato comigo: 
+ :email: &nbsp; Entre em contato comigo
+<br><br>
 <a href="https://www.linkedin.com/in/matheusgomes/" target="_blank">
 <img src="https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgomes/"/>
  </a>
  
+ </div>
+ 
 ---
+
 ### :computer: Minhas Habilidades
 
-#### Linguagens
+Minhas principais habilidades técnicas incluem o domínio de:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Redux
 
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Sass](https://sass-lang.com/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [SQL](https://pt.wikipedia.org/wiki/SQL)
-- [Typescript](https://www.typescriptlang.org/)
+**Também estou familiarizado com o uso de**:
 
-  <!-- #### Frameworks e Bibliotecas -->
+- PHP
+- Nodejs
+- Docker
+- Figma
+- Adobe XD
+- Photoshop
+- SQL
+- MySql
+- Hardware
+- Manutenção de Computadores
+- Testes Automatizados
+- Integração Contínua e Entrega Contínua (CI/CD)
+- Tooling (Gulp, Webpack, rollup, vite, esbuild)
 
-- [ReactJS]()
-- [NextJS]()
-
-#### Ferramentas
-
-- [Webpack](https://webpack.js.org/)
-- [Gulp](https://gulpjs.com/)
-- [Git](https://git-scm.com/)
-
-#### Banco de Dados
-
-- [MySql](https://www.mysql.com/)
-
-#### Outras Habilidades
-
-- [Design Responsivo / Mobile First](https://www.hostgator.com.br/blog/mobile-first-o-que-e/)
-- [API Rest](https://www.hostgator.com.br/blog/api-restful/)
+Entre outras ferramentas que me permite integrar e manipular dados de forma eficiente, otimizar fluxos de trabalho e garantir um código limpo e bem-organizado.
 
 ---
 ### 💬 Idiomas
