@@ -49,16 +49,31 @@ Trabalho como **Desenvolvedor Front End** e sou responsável por projetar e impl
 ### :computer: Minhas Habilidades
 
 Minhas principais habilidades técnicas incluem o domínio de:
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Redux
+- **HTML5**
+- **CSS3**
+- **Sass**
+- **JavaScript**
+- **TypeScript**
+- **React.js / React Hooks**
+- **Next.js**
+- **Flux:** (Redux, ContextAPI)
+- **Testes Automatizados:** (Jest, React Testing Library, Cypress)
+- **Integração Contínua e Entrega Contínua (CI/CD)**
+- **Git/Github**
+- **Performance web, acessibilidade e SEO**
+- **Web Design Responsivo:** (BEM, Atomic Design)
+- **APIsRestful:** (Http, Axios, fetch api)
+- **Styled Components:** (Stitches.js, styled-components)
+- **Metodologias Ágeis:** (Scrum, Kanban, Jira)
+- **Component Library:** (Bootstrap, React Bootstrap, Storybook)
 
 **Também estou familiarizado com o uso de**:
 
+- Tooling (Gulp, Webpack, rollup, vite, esbuild)
+- Programação orientada a objetos (POO)
+- SQL
+ - UML
+- Linux
 - PHP
 - Nodejs
 - Docker
@@ -69,10 +84,8 @@ Minhas principais habilidades técnicas incluem o domínio de:
 - MySql
 - Hardware
 - Manutenção de Computadores
-- Testes Automatizados
-- Integração Contínua e Entrega Contínua (CI/CD)
-- Tooling (Gulp, Webpack, rollup, vite, esbuild)
-
+  Wordpress
+  
 Entre outras ferramentas que me permite integrar e manipular dados de forma eficiente, otimizar fluxos de trabalho e garantir um código limpo e bem-organizado.
 
 ---
