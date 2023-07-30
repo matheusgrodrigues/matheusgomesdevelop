@@ -54,18 +54,26 @@ Minhas principais habilidades técnicas incluem o domínio de:
 - **Sass**
 - **JavaScript**
 - **TypeScript**
-- **React.js / React Hooks**
+- **React.js**
+  - React Hooks
 - **Next.js**
-- **Flux:** (Redux, ContextAPI)
-- **Testes Automatizados:** (Jest, React Testing Library, Cypress)
+- **Flux:**
+  - (Redux, ContextAPI)
+- **Testes Automatizados:**
+  - (Jest, React Testing Library, Cypress)
 - **Integração Contínua e Entrega Contínua (CI/CD)**
 - **Git/Github**
 - **Performance web, acessibilidade e SEO**
-- **Web Design Responsivo:** (BEM, Atomic Design)
-- **APIsRestful:** (Http, Axios, fetch api)
-- **Styled Components:** (Stitches.js, styled-components)
-- **Metodologias Ágeis:** (Scrum, Kanban, Jira)
-- **Component Library:** (Bootstrap, React Bootstrap, Storybook)
+- **Web Design Responsivo:**
+  - (BEM, Atomic Design)
+- **APIsRestful:**
+  - (Http, Axios, fetch api)
+- **Styled Components:**
+  - (Stitches.js, styled-components)
+- **Metodologias Ágeis:**
+  - (Scrum, Kanban, Jira)
+- **Component Library:**
+  - (Bootstrap, React Bootstrap, Storybook)
 
 **Também estou familiarizado com o uso de**:
 
