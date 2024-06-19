@@ -26,7 +26,7 @@
    
 ### 🤓 Sobre mim? :tea:
 
-Olá! Me chamo **Matheus G. Rodrigues**, tenho 29 anos e sou de Praia Grande - SP.
+Olá! Me chamo **Matheus G. Rodrigues**, tenho 30 anos e sou de Praia Grande - SP.
 
 Sou apaixonado por criar experiências interativas e envolventes na web. Possuo formação em :rocket:  &nbsp; **Análise e Desenvolvimento de Sistemas**, o que me proporciona uma base sólida em desenvolvimento de software e resolução de problemas.
 
